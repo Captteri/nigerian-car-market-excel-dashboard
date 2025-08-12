@@ -1,10 +1,5 @@
 # nigerian-car-market-excel-dashboard
 A visually-styled dashboard of the Nigerian car market recreated in Microsoft Excel.   This repo contains the dashboard workbook, a small sample of the source data, and screenshots.
-## Files
-- `dashboard/Nigerian_Car_Market_Dashboard.xlsx` — Excel file (interactive; enable editing to use slicers)
-- `data/car45_sample.csv` — sample data used to build visuals
-- `images/dashboard_screenshot1.png` — screenshot #1
-- `images/dashboard_screenshot2.png` — screenshot #2
 
 ## Highlights / Technical notes
 - Built fully in Excel: custom KPI cards, icon-based navigation, maps, donut/column/bar visuals.
